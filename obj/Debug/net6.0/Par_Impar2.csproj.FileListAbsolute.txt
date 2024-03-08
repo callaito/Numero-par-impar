@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\bin\Debug\net6.0\Par_Impar2.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\bin\Debug\net6.0\Par_Impar2.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\bin\Debug\net6.0\Par_Impar2.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\bin\Debug\net6.0\Par_Impar2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\bin\Debug\net6.0\Par_Impar2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\refint\Par_Impar2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\Par_Impar2.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Par_Impar2\obj\Debug\net6.0\ref\Par_Impar2.dll
